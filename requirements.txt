@@ -1,5 +1,6 @@
 matplotlib
 numpy
+sympy
 jupyter
 texlive-latex-extra
 texlive-fonts-recommended
