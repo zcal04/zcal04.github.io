@@ -1,0 +1,6 @@
+matplotlib
+numpy
+jupyter
+texlive-latex-extra
+texlive-fonts-recommended
+texlive-xetex
