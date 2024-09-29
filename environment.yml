@@ -1,0 +1,14 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - jupyter
+  - ipywidgets
+  - texlive-core
+  - pip
+  - pip:
+    - nbgitpuller
