@@ -1,7 +1,11 @@
 matplotlib
 numpy
 sympy
-mathjax
+jupyterlab-fasta
+jupyterlab-geojson
+jupyterlab-katex
+jupyterlab-mathjax2
+jupyterlab-vega3
 jupyter
 texlive-latex-extra
 texlive-fonts-recommended
