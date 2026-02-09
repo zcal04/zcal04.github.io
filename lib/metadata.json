@@ -1,6 +1,6 @@
 {
   "vaultName": "Zach's Place",
-  "lastExport": 1770624237525,
+  "lastExport": 1770624811004,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -35,8 +35,8 @@
   ],
   "fileInfo": {
     "Projects.md": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 5177,
+      "modifiedTime": 1770624811004,
+      "sourceSize": 5183,
       "exportedPath": "Projects.html",
       "dependencies": []
     },
@@ -89,31 +89,31 @@
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -130,64 +130,64 @@
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
-    "index.md": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 107,
-      "exportedPath": "index.html",
-      "dependencies": []
-    },
-    "img/Pasted image 20260209014506.png": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 421408,
-      "exportedPath": "img/Pasted image 20260209014506.png",
-      "dependencies": []
-    },
-    "img/Pasted image 20260209014705.png": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 669426,
-      "exportedPath": "img/Pasted image 20260209014705.png",
-      "dependencies": []
-    },
-    "img/Pasted image 20260209014938.png": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 439334,
-      "exportedPath": "img/Pasted image 20260209014938.png",
-      "dependencies": []
-    },
-    "img/Pasted image 20260209015300.png": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 126703,
-      "exportedPath": "img/Pasted image 20260209015300.png",
-      "dependencies": []
-    },
-    "img/Pasted image 20260209015322.png": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 137336,
-      "exportedPath": "img/Pasted image 20260209015322.png",
-      "dependencies": []
-    },
-    "img/Pasted image 20260209015437.png": {
-      "modifiedTime": 1770624237525,
-      "sourceSize": 116815,
-      "exportedPath": "img/Pasted image 20260209015437.png",
-      "dependencies": []
-    },
     "lib/fonts/c504db5c06caaf7cdfba.woff2": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 352240,
       "exportedPath": "lib/fonts/c504db5c06caaf7cdfba.woff2",
       "dependencies": []
     },
     "lib/fonts/01dcbad1bac635f9c9cd.woff2": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 387976,
       "exportedPath": "lib/fonts/01dcbad1bac635f9c9cd.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1770624237525,
+      "modifiedTime": 1770624811004,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "img/Pasted image 20260209014506.png": {
+      "modifiedTime": 1770624811004,
+      "sourceSize": 421408,
+      "exportedPath": "img/Pasted image 20260209014506.png",
+      "dependencies": []
+    },
+    "img/Pasted image 20260209014705.png": {
+      "modifiedTime": 1770624811004,
+      "sourceSize": 669426,
+      "exportedPath": "img/Pasted image 20260209014705.png",
+      "dependencies": []
+    },
+    "img/Pasted image 20260209014938.png": {
+      "modifiedTime": 1770624811004,
+      "sourceSize": 439334,
+      "exportedPath": "img/Pasted image 20260209014938.png",
+      "dependencies": []
+    },
+    "img/Pasted image 20260209015300.png": {
+      "modifiedTime": 1770624811004,
+      "sourceSize": 126703,
+      "exportedPath": "img/Pasted image 20260209015300.png",
+      "dependencies": []
+    },
+    "img/Pasted image 20260209015322.png": {
+      "modifiedTime": 1770624811004,
+      "sourceSize": 137336,
+      "exportedPath": "img/Pasted image 20260209015322.png",
+      "dependencies": []
+    },
+    "img/Pasted image 20260209015437.png": {
+      "modifiedTime": 1770624811004,
+      "sourceSize": 116815,
+      "exportedPath": "img/Pasted image 20260209015437.png",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1770624811004,
+      "sourceSize": 107,
+      "exportedPath": "index.html",
       "dependencies": []
     }
   }
